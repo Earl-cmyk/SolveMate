@@ -67,5 +67,5 @@ math
 No extra installation needed.
 
 ## 🧑‍💻 Author
-Developed by Dimla (for “SolveMate” project)
+Developed by Group 10 Barlam, David, Dimla, Fernandez, and Mergilla (for “SolveMate” project)
 Built with Python 🐍 and Tkinter 🎨
